@@ -1,0 +1,6 @@
+umera,umerf,umere,umerb
+umerb,umerf,umera,umerc,umerd
+umerc,umerf,umerb
+umerd,umerf,umere
+umere,umerf
+umerf,
